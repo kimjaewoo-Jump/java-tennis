@@ -1,0 +1,15 @@
+﻿  Pointer.c
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(12,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(18,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(22,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(28,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(37,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(37,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(37,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(60,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\김재우\source\repos\Start.c\Start.c\Pointer.c(60,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+  Start.c.vcxproj -> C:\Users\김재우\source\repos\Start.c\x64\Debug\Start.c.exe
